@@ -1,0 +1,26 @@
+body
+{
+	/* This will bring the gradient feature to the body */
+	background: linear-gradient(#FFFFCC, #FFFF33);
+	border-spacing: 20px;
+}
+
+header
+{
+	/* The border bring the oval shape of specified height of the header*/	
+	border-radius: 50%; 
+	background-color: blue;
+	color: white;
+	width: 140px;
+	height: 70px;
+	text-align: center;
+}
+
+span
+{
+	/* this will bring the text to the middle */
+	vertical-align: middle;
+	line-height: 70px;
+	font-size: 10px;
+	
+}
